@@ -1,0 +1,8 @@
+public MyHelloWorld{
+
+public void sayHellow(){
+System.out.println("Hello World");
+
+}//
+
+}//class ends
